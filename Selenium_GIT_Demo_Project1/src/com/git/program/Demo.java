@@ -11,6 +11,8 @@ public class Demo
 	public static void main(String[] args) 
 	{
 	  System.out.println("-------HELLO GIT-------");
+		Demo d=new Demo();
+		     d.m1();
 
 	}
 
